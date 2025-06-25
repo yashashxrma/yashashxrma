@@ -13,9 +13,7 @@
 💊 I work with both **single-tenant** and **multi-tenant Safety Systems**, supporting critical migrations and pharmacovigilance workflows.  
 🧪 Skilled in handling **large-scale data migrations**, **PL/SQL**, and **PostgreSQL** development.  
 🤝 Actively collaborate with clients and cross-functional teams to deliver scalable, compliant solutions.  
-📫 **Reach me at**: [yashasvi2207@gmail.com](mailto:yashasvi2207@gmail.com)  
-🔗 **LinkedIn**: [Yashasvi Sharma](https://www.linkedin.com/in/yashasvi-sharma-a121651b9/)  
-🌐 **Portfolio**: *Coming soon*
+
 
 ---
 
